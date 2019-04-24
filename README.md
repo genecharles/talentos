@@ -1,3 +1,3 @@
-# http://talento.github.io/talento
+# http://talentos.github.io/talentos
 
 ## Base de Talentos
