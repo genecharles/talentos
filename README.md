@@ -1,0 +1,2 @@
+# talentos
+Base de talentos
